@@ -1,0 +1,13 @@
+Date,Category,Type,Description,Amount
+2025-01-01,Salary,Income,Salary Credit,60000
+2025-01-03,Rent,Expense,House Rent,15000
+2025-01-05,Groceries,Expense,Monthly Groceries,4500
+2025-01-08,Transport,Expense,Fuel & Travel,3000
+2025-01-10,Utilities,Expense,Electricity Bill,2200
+2025-01-12,Entertainment,Expense,Movie & Dining,1800
+2025-01-15,Savings,Savings,RD / SIP Investment,8000
+2025-01-18,Healthcare,Expense,Medical Checkup,1200
+2025-01-20,Education,Expense,Online Course,2500
+2025-01-22,Shopping,Expense,Clothing,3500
+2025-01-25,Freelance,Income,Freelance Project,12000
+2025-01-28,Savings,Savings,Emergency Fund,5000
